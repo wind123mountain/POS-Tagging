@@ -1,2 +1,6 @@
 # POS-Tagging
-### Linear-chain CRFs Requirements
+- Env: Python
+### Linear-chain CRFs Requirements:
+- scikit-learn
+- sklearn-crfsuite
+- datasets
