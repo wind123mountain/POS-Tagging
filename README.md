@@ -4,7 +4,7 @@
 - scikit-learn
 - sklearn-crfsuite
 - datasets
-### Linear-chain CRFs Requirements:
+### HMM Requirements:
 - datasets
 - pandas
 - numpy
